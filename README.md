@@ -47,4 +47,4 @@ Contributions are welcome! If you'd like to contribute to Anime Vault, please fo
 
 ## Contact
 
-Have any questions or suggestions? Feel free to reach out to us at [your-email@example.com](mailto:aryagupta101@gmail.com).
+Have any questions or suggestions? Feel free to reach out to us at [aryagupta101@gmail.com](mailto:aryagupta101@gmail.com).
